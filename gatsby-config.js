@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Boburjon's Personal Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Boburjon Abdukhamidov`,
+      summary: `All about innovative technologies`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A personal blog`,
+    siteUrl: `https://boburjon.gatsbyjs.com`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `boburjon.abdukhamidov`,
     },
   },
   plugins: [
