@@ -44,8 +44,11 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
+          Hello. My name is Boburjon Abdukhamidov, MS in Technological Systems Management Major.
+          I am passionate about technology and its impact on society.
+          Please feel free to reach out to me at boburjon0700@gmail.com or
+          
+          
           <a href={'https://www.linkedin.com/in/boburjon-abdukhamidov/'}>
             Connect with me on LinkedIn
           </a>
