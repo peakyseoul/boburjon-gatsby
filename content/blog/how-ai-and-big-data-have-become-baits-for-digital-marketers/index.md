@@ -10,14 +10,14 @@ In the context of Ecommerce operations, the campaigns could be categorized into 
 
 Big Data - is probably one of the most overused one and I have personally experienced a sales pitch when a person sales person did not fully understand it himself. Funny and very sad at the same time. Dan Ariely from Duke University explained quite well in the following:
 
-![Big Data]{./big-data-teenage-sex.jpg}
+![Big Data](./big-data-teenage-sex.jpg)
 
 
 Therefore, be cautious of your and people's understanding of Big Data and how exactly they are promising to implement it on your platform. After personally using the service X in our platform, it has become clear that they will merely give you an ability to look at the data you provide to them. That's it! And if your are not "pushing" data at large scale from your site, then it is not really a big data so to speak. So, be sure to do your homework before deciding on using their solutions.
 
 Artificial Intelligence (AI) - is another of my favorite ones. There has been a trend of labeling stuff as AI if they don't understand the mechanics behind. It is a fancy word to hear, but there are always explainable digital clicks and clack behind every AI. As Enstein once said "if you cannot explain it simply, then you don't understand it well enough", be sure to use the ["five-why"]{https://en.wikipedia.org/wiki/Five_whys} technique and sprinkle it with bunch of hows before engaging into partnership.
 
-![Einstein]{./if-you-cant-explain-simply.jpg}
+![Einstein](./if-you-cant-explain-simply.jpg)
 
 After the first hand usage of platform X's services, I came to realize that the only time that "AI" comes into play is when the system uses the popup with higher clicks after experimenting with a few. But those different versions of the pop-up will need to be set up manually as well as the goals through which the systems will track the efficiency. Personally, I was not much impressed as it is a typical A/B test and to call it an AI is a big misnomer.
 
