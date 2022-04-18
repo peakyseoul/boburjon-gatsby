@@ -54,12 +54,12 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: black;
+  --color-primary: white;
   --color-text: white;
   --color-text-light: grey;
   --color-heading: white;
   --color-heading-black: white;
-  --color-accent: black;
+  --color-accent: white;
 }
 
 /* HTML elements */
