@@ -71,6 +71,7 @@
 }
 
 html {
+  background-color: black;
   line-height: var(--lineHeight-normal);
   font-size: var(--fontSize-root);
   -webkit-font-smoothing: antialiased;
