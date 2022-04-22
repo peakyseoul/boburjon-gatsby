@@ -10,8 +10,24 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <Link className="header-link-home" to="/"> Home </Link>
-      <Link className="header-link-home" to="/about"> About </Link>
+      <header>
+            <h1> <Link  to="/">{data.site.siteMetadata.title}
+            </Link>  
+            </h1>
+            <nav>
+                <ul >
+                    <li>
+                    <Link to = "/">Home</Link>
+                    </li>
+                    <li>
+                        <Link   to = "/about">About</Link>
+                    </li>
+                    <li>
+                        <Link   to = "/contact">Contact</Link>
+                    </li>
+                </ul>
+            </nav>
+        </header>
         
       
       <main>{children}</main>
