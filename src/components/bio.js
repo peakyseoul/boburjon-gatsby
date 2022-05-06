@@ -46,6 +46,10 @@ const Bio = () => {
         <p>
           Hello. My name is Boburjon Abdukhamidov, MS in Technological Systems Management Major.
           I am passionate about technology and its impact on society.
+
+          This is an example of a website that is created with Gatsby tool.
+
+          
           Please feel free to reach out to me at boburjon0700@gmail.com or 
           
           
